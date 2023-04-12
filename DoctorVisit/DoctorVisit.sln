@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorVisit", "DoctorVisit.csproj", "{BAD1E1BF-F467-46D6-A953-36CD5C5FFF59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD1E1BF-F467-46D6-A953-36CD5C5FFF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD1E1BF-F467-46D6-A953-36CD5C5FFF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD1E1BF-F467-46D6-A953-36CD5C5FFF59}.Debug|x86.ActiveCfg = Debug|x86
+		{BAD1E1BF-F467-46D6-A953-36CD5C5FFF59}.Debug|x86.Build.0 = Debug|x86
+		{BAD1E1BF-F467-46D6-A953-36CD5C5FFF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD1E1BF-F467-46D6-A953-36CD5C5FFF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD1E1BF-F467-46D6-A953-36CD5C5FFF59}.Release|x86.ActiveCfg = Release|x86
+		{BAD1E1BF-F467-46D6-A953-36CD5C5FFF59}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B6177BA-6BC6-4D16-97BA-33976A73EEE5}
+	EndGlobalSection
+EndGlobal
